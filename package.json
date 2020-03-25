@@ -11,5 +11,10 @@
     "url": "Curso_Bootstrap4"
   },
   "author": "Orlando Eduardo Pereira",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.1"
+  }
 }
