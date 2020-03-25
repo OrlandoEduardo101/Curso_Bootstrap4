@@ -1,0 +1,15 @@
+{
+  "name": "curso_bootstrap4",
+  "version": "1.0.0",
+  "description": "exercício do curso de bootstrap 4.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Curso_Bootstrap4"
+  },
+  "author": "Orlando Eduardo Pereira",
+  "license": "ISC"
+}
